@@ -1,16 +1,10 @@
-# chatapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+buat databse di firebase
+dokumentasi flutterfire https://firebase.flutter.dev/docs/overview/
+Build
+1.(Authentication) databse user FireBase (get Started, Native providers(email/password), enable hanya (Email/Password))
+2.(Firestore Database) databse user FireBase ubah rules menjadi true (allow read, write: if true;)
+gunkan comand ini (flutterfire configure, firebase login, dart pub global activate flutterfire_cli)
+![alt text](https://github.com/arsalfrlh/ChattApp-flutter-firebase/blob/main/login.PNG?raw=true)
+![alt text](https://github.com/arsalfrlh/ChattApp-flutter-firebase/blob/main/home.PNG?raw=true)
+![alt text](https://github.com/arsalfrlh/ChattApp-flutter-firebase/blob/main/chat.PNG?raw=true)
+![alt text](https://github.com/arsalfrlh/ChattApp-flutter-firebase/blob/main/menu.PNG?raw=true)
